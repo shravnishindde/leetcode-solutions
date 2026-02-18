@@ -18,6 +18,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | ------- |
 | [0067-add-binary](https://github.com/shravnishindde/leetcode-solutions/tree/master/0067-add-binary) |
 | [0401-binary-watch](https://github.com/shravnishindde/leetcode-solutions/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/shravnishindde/leetcode-solutions/tree/master/0693-binary-number-with-alternating-bits) |
 ## Simulation
 |  |
 | ------- |
