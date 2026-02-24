@@ -30,4 +30,12 @@ Collection of my LeetCode problem solutions in Java/Python
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/shravnishindde/leetcode-solutions/tree/master/0401-binary-watch) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
