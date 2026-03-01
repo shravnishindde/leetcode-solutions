@@ -14,6 +14,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | ------- |
 | [0043-multiply-strings](https://github.com/shravnishindde/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shravnishindde/leetcode-solutions/tree/master/0067-add-binary) |
+| [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -66,5 +67,10 @@ Collection of my LeetCode problem solutions in Java/Python
 ## Counting Sort
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Hash Table
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
