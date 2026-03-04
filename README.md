@@ -15,6 +15,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0043-multiply-strings](https://github.com/shravnishindde/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shravnishindde/leetcode-solutions/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
+| [3606-coupon-code-validator](https://github.com/shravnishindde/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -37,6 +38,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0027-remove-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0027-remove-element) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shravnishindde/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3606-coupon-code-validator](https://github.com/shravnishindde/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@ Collection of my LeetCode problem solutions in Java/Python
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [3606-coupon-code-validator](https://github.com/shravnishindde/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -74,6 +77,7 @@ Collection of my LeetCode problem solutions in Java/Python
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
+| [3606-coupon-code-validator](https://github.com/shravnishindde/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Matrix
 |  |
 | ------- |
