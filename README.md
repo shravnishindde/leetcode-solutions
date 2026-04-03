@@ -33,11 +33,13 @@ Collection of my LeetCode problem solutions in Java/Python
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0401-binary-watch](https://github.com/shravnishindde/leetcode-solutions/tree/master/0401-binary-watch) |
 ## Array
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravnishindde/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
