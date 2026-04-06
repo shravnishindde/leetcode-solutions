@@ -6,12 +6,14 @@ Collection of my LeetCode problem solutions in Java/Python
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shravnishindde/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/shravnishindde/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shravnishindde/leetcode-solutions/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shravnishindde/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shravnishindde/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/shravnishindde/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shravnishindde/leetcode-solutions/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -84,6 +86,7 @@ Collection of my LeetCode problem solutions in Java/Python
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/shravnishindde/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
 | [3606-coupon-code-validator](https://github.com/shravnishindde/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Matrix
