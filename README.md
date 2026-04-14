@@ -13,6 +13,7 @@ Collection of my LeetCode problem solutions in Java/Python
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/shravnishindde/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/shravnishindde/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/shravnishindde/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shravnishindde/leetcode-solutions/tree/master/0067-add-binary) |
