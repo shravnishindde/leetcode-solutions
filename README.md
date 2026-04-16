@@ -47,6 +47,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravnishindde/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shravnishindde/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [3488-closest-equal-element-queries](https://github.com/shravnishindde/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3606-coupon-code-validator](https://github.com/shravnishindde/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
@@ -90,6 +91,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | ------- |
 | [0012-integer-to-roman](https://github.com/shravnishindde/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
+| [3488-closest-equal-element-queries](https://github.com/shravnishindde/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3606-coupon-code-validator](https://github.com/shravnishindde/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Matrix
@@ -100,4 +102,8 @@ Collection of my LeetCode problem solutions in Java/Python
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravnishindde/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [3488-closest-equal-element-queries](https://github.com/shravnishindde/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 <!---LeetCode Topics End-->
