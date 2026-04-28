@@ -41,6 +41,7 @@ Collection of my LeetCode problem solutions in Java/Python
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0088-merge-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -89,6 +90,7 @@ Collection of my LeetCode problem solutions in Java/Python
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/shravnishindde/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
 | [3488-closest-equal-element-queries](https://github.com/shravnishindde/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
