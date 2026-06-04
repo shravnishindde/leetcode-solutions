@@ -10,6 +10,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0043-multiply-strings](https://github.com/shravnishindde/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shravnishindde/leetcode-solutions/tree/master/0067-add-binary) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shravnishindde/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
 |  |
 | ------- |
@@ -114,6 +115,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | ------- |
 | [0053-maximum-subarray](https://github.com/shravnishindde/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravnishindde/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -124,4 +126,8 @@ Collection of my LeetCode problem solutions in Java/Python
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shravnishindde/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
