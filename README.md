@@ -35,6 +35,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | ------- |
 | [0043-multiply-strings](https://github.com/shravnishindde/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shravnishindde/leetcode-solutions/tree/master/0067-add-binary) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shravnishindde/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Backtracking
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0162-find-peak-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shravnishindde/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shravnishindde/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2784-check-if-array-is-good](https://github.com/shravnishindde/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/shravnishindde/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3606-coupon-code-validator](https://github.com/shravnishindde/leetcode-solutions/tree/master/3606-coupon-code-validator) |
@@ -62,6 +64,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | ------- |
 | [0027-remove-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [2161-partition-array-according-to-given-pivot](https://github.com/shravnishindde/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Divide and Conquer
 |  |
 | ------- |
