@@ -60,6 +60,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [2784-check-if-array-is-good](https://github.com/shravnishindde/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/shravnishindde/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3606-coupon-code-validator](https://github.com/shravnishindde/leetcode-solutions/tree/master/3606-coupon-code-validator) |
+| [3689-maximum-total-subarray-value-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
@@ -136,4 +137,8 @@ Collection of my LeetCode problem solutions in Java/Python
 |  |
 | ------- |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+## Greedy
+|  |
+| ------- |
+| [3689-maximum-total-subarray-value-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
