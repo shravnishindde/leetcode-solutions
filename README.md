@@ -9,6 +9,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0012-integer-to-roman](https://github.com/shravnishindde/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/shravnishindde/leetcode-solutions/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/shravnishindde/leetcode-solutions/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shravnishindde/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## String
@@ -53,6 +54,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravnishindde/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shravnishindde/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -68,6 +70,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | ------- |
 | [0027-remove-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0189-rotate-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shravnishindde/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shravnishindde/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Divide and Conquer
