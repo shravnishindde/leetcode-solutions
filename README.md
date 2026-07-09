@@ -56,6 +56,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0162-find-peak-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0605-can-place-flowers](https://github.com/shravnishindde/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shravnishindde/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shravnishindde/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -145,5 +146,6 @@ Collection of my LeetCode problem solutions in Java/Python
 ## Greedy
 |  |
 | ------- |
+| [0605-can-place-flowers](https://github.com/shravnishindde/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 <!---LeetCode Topics End-->
