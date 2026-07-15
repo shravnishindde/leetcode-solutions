@@ -23,6 +23,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0067-add-binary](https://github.com/shravnishindde/leetcode-solutions/tree/master/0067-add-binary) |
 | [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/shravnishindde/leetcode-solutions/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/shravnishindde/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [3606-coupon-code-validator](https://github.com/shravnishindde/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
 |  |
@@ -63,6 +64,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shravnishindde/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shravnishindde/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shravnishindde/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/shravnishindde/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2784-check-if-array-is-good](https://github.com/shravnishindde/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/shravnishindde/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3606-coupon-code-validator](https://github.com/shravnishindde/leetcode-solutions/tree/master/3606-coupon-code-validator) |
@@ -87,6 +89,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0049-group-anagrams](https://github.com/shravnishindde/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/shravnishindde/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2784-check-if-array-is-good](https://github.com/shravnishindde/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3606-coupon-code-validator](https://github.com/shravnishindde/leetcode-solutions/tree/master/3606-coupon-code-validator) |
 ## Heap (Priority Queue)
@@ -119,6 +122,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0049-group-anagrams](https://github.com/shravnishindde/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/shravnishindde/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2784-check-if-array-is-good](https://github.com/shravnishindde/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/shravnishindde/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 | [3606-coupon-code-validator](https://github.com/shravnishindde/leetcode-solutions/tree/master/3606-coupon-code-validator) |
