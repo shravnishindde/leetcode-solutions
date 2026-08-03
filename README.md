@@ -156,4 +156,8 @@ Collection of my LeetCode problem solutions in Java/Python
 | ------- |
 | [0605-can-place-flowers](https://github.com/shravnishindde/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/shravnishindde/leetcode-solutions/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
