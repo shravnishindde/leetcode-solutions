@@ -160,4 +160,5 @@ Collection of my LeetCode problem solutions in Java/Python
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/shravnishindde/leetcode-solutions/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/shravnishindde/leetcode-solutions/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
