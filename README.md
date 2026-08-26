@@ -52,6 +52,7 @@ Collection of my LeetCode problem solutions in Java/Python
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/shravnishindde/leetcode-solutions/tree/master/0049-group-anagrams) |
@@ -76,6 +77,7 @@ Collection of my LeetCode problem solutions in Java/Python
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -89,6 +91,7 @@ Collection of my LeetCode problem solutions in Java/Python
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shravnishindde/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
