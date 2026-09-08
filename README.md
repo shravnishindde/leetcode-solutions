@@ -16,6 +16,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/shravnishindde/leetcode-solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/shravnishindde/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
+| [3870-count-commas-in-range](https://github.com/shravnishindde/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
