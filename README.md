@@ -68,6 +68,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0189-rotate-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/shravnishindde/leetcode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shravnishindde/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/shravnishindde/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shravnishindde/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -136,6 +137,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0268-missing-number](https://github.com/shravnishindde/leetcode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/shravnishindde/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/shravnishindde/leetcode-solutions/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2784-check-if-array-is-good](https://github.com/shravnishindde/leetcode-solutions/tree/master/2784-check-if-array-is-good) |
 | [3488-closest-equal-element-queries](https://github.com/shravnishindde/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
@@ -176,4 +178,8 @@ Collection of my LeetCode problem solutions in Java/Python
 | ------- |
 | [0178-rank-scores](https://github.com/shravnishindde/leetcode-solutions/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/shravnishindde/leetcode-solutions/tree/master/0184-department-highest-salary) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shravnishindde/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
