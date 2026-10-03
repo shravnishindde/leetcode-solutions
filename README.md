@@ -61,6 +61,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0039-combination-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/shravnishindde/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shravnishindde/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shravnishindde/leetcode-solutions/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravnishindde/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -151,6 +152,7 @@ Collection of my LeetCode problem solutions in Java/Python
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shravnishindde/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/shravnishindde/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravnishindde/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Binary Search
@@ -171,6 +173,7 @@ Collection of my LeetCode problem solutions in Java/Python
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/shravnishindde/leetcode-solutions/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/shravnishindde/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [3689-maximum-total-subarray-value-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Database
