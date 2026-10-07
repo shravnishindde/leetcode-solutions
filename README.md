@@ -76,6 +76,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0560-subarray-sum-equals-k](https://github.com/shravnishindde/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/shravnishindde/leetcode-solutions/tree/master/0605-can-place-flowers) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/shravnishindde/leetcode-solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shravnishindde/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/shravnishindde/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -196,4 +197,5 @@ Collection of my LeetCode problem solutions in Java/Python
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shravnishindde/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
