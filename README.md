@@ -69,6 +69,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shravnishindde/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shravnishindde/leetcode-solutions/tree/master/0268-missing-number) |
@@ -103,6 +104,7 @@ Collection of my LeetCode problem solutions in Java/Python
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shravnishindde/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -110,6 +112,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0015-3sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/shravnishindde/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shravnishindde/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shravnishindde/leetcode-solutions/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -135,6 +138,7 @@ Collection of my LeetCode problem solutions in Java/Python
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0912-sort-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Hash Table
@@ -144,6 +148,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0003-longest-substring-without-repeating-characters](https://github.com/shravnishindde/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/shravnishindde/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/shravnishindde/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/shravnishindde/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/shravnishindde/leetcode-solutions/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/shravnishindde/leetcode-solutions/tree/master/0383-ransom-note) |
@@ -204,4 +209,8 @@ Collection of my LeetCode problem solutions in Java/Python
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shravnishindde/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
