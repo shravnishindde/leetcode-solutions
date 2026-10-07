@@ -201,6 +201,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | ------- |
 | [0178-rank-scores](https://github.com/shravnishindde/leetcode-solutions/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/shravnishindde/leetcode-solutions/tree/master/0184-department-highest-salary) |
+| [0619-biggest-single-number](https://github.com/shravnishindde/leetcode-solutions/tree/master/0619-biggest-single-number) |
 | [1075-project-employees-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/shravnishindde/leetcode-solutions/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/shravnishindde/leetcode-solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
