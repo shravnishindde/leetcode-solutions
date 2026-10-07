@@ -70,6 +70,7 @@ Collection of my LeetCode problem solutions in Java/Python
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shravnishindde/leetcode-solutions/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shravnishindde/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -167,12 +168,14 @@ Collection of my LeetCode problem solutions in Java/Python
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shravnishindde/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/shravnishindde/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/shravnishindde/leetcode-solutions/tree/master/0268-missing-number) |
 | [3488-closest-equal-element-queries](https://github.com/shravnishindde/leetcode-solutions/tree/master/3488-closest-equal-element-queries) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shravnishindde/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 ## Enumeration
 |  |
 | ------- |
@@ -191,5 +194,6 @@ Collection of my LeetCode problem solutions in Java/Python
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/shravnishindde/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/shravnishindde/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
