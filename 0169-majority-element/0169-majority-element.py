@@ -6,5 +6,4 @@ class Solution:
         for key in s1:
             if s1[key] > len(nums)//2:
                 return key
-
         
